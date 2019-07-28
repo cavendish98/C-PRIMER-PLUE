@@ -1,0 +1,3 @@
+﻿  typecast.cpp
+C:\Users\18810\source\repos\C++ PRIMER PLUS\typecast\typecast.cpp(13,15): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+  typecast.vcxproj -> C:\Users\18810\source\repos\C++ PRIMER PLUS\typecast\Debug\typecast.exe
